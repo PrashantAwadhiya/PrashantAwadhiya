@@ -20,7 +20,7 @@ When I'm not coding, you can find me experimenting with new technologies, contri
 
 <table><tbody><tr border="none"><td width="50%" align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=PrashantAwadhiya&theme=nightowl&show_icons=true&hide_border=true&count_private=true"><br>
-<img alt="Mark streak" src="https://streak-stats.demolab.com?user=PrashantAwadhiya&theme=nightowl&hide_border=true"></td><td width="50%" align="center">
+<img alt="Mark streak" src="[https://streak-stats.demolab.com?user=PrashantAwadhiya&theme=nightowl&hide_border=true](https://streak-stats.demolab.com?user=PrashantAwadhiya&theme=nightowl&hide_border=true)"></td><td width="50%" align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrashantAwadhiya&theme=nightowl&show_icons=true&hide_border=true&layout=compact"></td></tr></tbody></table>
 
 ## Connect with me
