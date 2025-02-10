@@ -19,24 +19,10 @@ When I'm not coding, you can find me experimenting with new technologies, contri
 ## GitHub Stats
 
 <table><tbody><tr border="none"><td width="50%" align="center">
-<img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/?username=brandonc123&theme=dark&show_icons=true&count_private=true"><br>
-<img alt="Mark streak" src="https://github-readme-streak-stats-five-roan.vercel.app?user=brandonc123&theme=dark"></td><td width="50%" align="center">
-<img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=brandonc123&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=6"></td></tr></tbody></table>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=PrashantAwadhiya&theme=nightowl&show_icons=true&hide_border=true&count_private=true"><br>
+<img alt="Mark streak" src="https://streak-stats.demolab.com?user=PrashantAwadhiya&theme=nightowl&hide_border=true"></td><td width="50%" align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrashantAwadhiya&theme=nightowl&show_icons=true&hide_border=true&layout=compact"></td></tr></tbody></table>
 
 ## Connect with me
 
 <p align="center">🔗 LinkedIn: <a href="www.linkedin.com/in/prashant-awadhiya10" target="_blank">Prashant awadhiya</a> Email: prashantawadhiya45@gmail.com</p>
-<!--
-**PrashantAwadhiya/PrashantAwadhiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
